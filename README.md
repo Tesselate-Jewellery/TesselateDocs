@@ -107,7 +107,7 @@ The target audience for the web application would include:
 
 ## User
 
-![User_Dataflow_Diagram](./dataflow_diagrams/user_dataflow_diagram.png)
+![User_Dataflow_Diagram](./dataflow_diagrams/user_dataflow_diagram.jpg)
 
 ## Admin
 
