@@ -117,16 +117,31 @@ The target audience for the web application would include:
 
 ![Staff_Dataflow_Diagram](./dataflow_diagrams/staff_dataflow_diagram.jpg)
 
-## Persona
+## Initial Research (User Stories)
 
+## Persona #1
 
+![aisha_patel](./personas/aisha_patel.jpg)
 
-## User Stories
+## User Story
 
+1. As the business owner, I want to efficiently manage and update the inventory of opals, base metals, and settings available for custom opal rings, ensuring that our customers have a diverse and up-to-date selection to choose from.
 
-### Initial Research
+3. As the business owner, I would like to receive an email whenever a user requests a quote, containing all the specifications of the bespoke ring they are interested in.
 
+## Persona #2
 
+![kwame_nkrumah](./personas/kwame_nkrumah.jpg)
+
+## User Story
+
+1. As a staff member, I want a feature that allows me to update the pricing of opals, metals, and settings based on market trends, costs and instructions from my boss. 
+
+2. As a staff member, I want to be able to updating the expected time frames that a bespoke ring will take to make from start to finish, based off recommendations from my boss. 
+
+## After second consultation with business owner
+
+1. As the business owner, I want a dashboard that displays customer requests for custom opal rings. This feature will help me track popular choices, enabling strategic decisions on stock levels and marketing efforts. It also assists in understanding customer preferences and adjusting offerings accordingly.
 
 ## Screenshots (Trello)
 
