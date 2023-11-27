@@ -183,8 +183,6 @@ The target audience for the web application would include:
 
 3. As a staff member, I want an intuitive interface that a tech-illiterate person can use easily for updating pricing on different opals and metal options, ensuring accurate and consistent information is presented to customers.
 
-4. 
-
 ## Screenshots (Trello)
 
 Link to trello board: 
