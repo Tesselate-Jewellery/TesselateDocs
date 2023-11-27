@@ -117,6 +117,17 @@ The target audience for the web application would include:
 
 ![Staff_Dataflow_Diagram](./dataflow_diagrams/staff_dataflow_diagram.jpg)
 
+## Persona
+
+
+
+## User Stories
+
+
+### Initial Research
+
+
+
 ## Screenshots (Trello)
 
 Link to trello board: 
