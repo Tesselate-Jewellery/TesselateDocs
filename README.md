@@ -127,7 +127,8 @@ The target audience for the web application would include:
 
 1. As the business owner, I want to efficiently manage and update the inventory of opals, base metals, and settings available for custom opal rings, ensuring that our customers have a diverse and up-to-date selection to choose from.
 
-3. As the business owner, I would like to receive an email whenever a user requests a quote, containing all the specifications of the bespoke ring they are interested in.
+2. As the business owner, I would like to receive an email whenever a user requests a quote, containing all the specifications of the bespoke ring they are interested in.
+
 
 ## Persona #2
 
@@ -137,11 +138,52 @@ The target audience for the web application would include:
 
 1. As a staff member, I want a feature that allows me to update the pricing of opals, metals, and settings based on market trends, costs and instructions from my boss. 
 
-2. As a staff member, I want to be able to updating the expected time frames that a bespoke ring will take to make from start to finish, based off recommendations from my boss. 
+2. As a staff member, I want to be able to update the expected time frames that a bespoke ring will take to make from start to finish, based off recommendations from my boss. 
+
+
+## Persona #3
+
+![diego_herrera](./personas/diego_herrera.jpg)
+
+## User Story
+
+1. As a customer, I want to browse a diverse selection of opals to choose one that resonates with my girlfriend and receive a quote on pricing. 
+
+2. As a customer, I would like to receive a confirmation email with the details of my custom ring configuration after requesting a quote.
+
+## Persona #4
+
+![leila_abbas](./personas/leila_abbas.jpg)
+
+## User Story
+
+1. As a customer, I want the flexibility to select the base metal for my ring, choosing between gold and silver, and specify the carat to align with my preferences and budget. 
+
+2. As a customer, I want the pricing of my custom opal ring to be transparent and determined based on the opal chosen, selected base metal, and preferred setting, ensuring I can make an informed decision. 
+
+## Persona #5
+
+![mei_chen](./personas/mei_chen.jpg)
+
+## User Story
+
+1. As a customer, I would like to have a user-friendly interface that guides me step-by-step through the process of creating a custom opal ring, ensuring a seamless and enjoyable experience.
+
+2. As a customer, I want to explore various settings such as bezel or claw, allowing me to tailor the aesthetic of my custom opal ring to match my style.
+
+3. As a customer, I expect the business to provide accurate and timely quotes reflecting the specifications I choose for my custom opal ring, facilitating a seamless process.
+
+4. As a customer, I want to know how long the quote is valid for, and whether I will be contacted by the business regarding my quote. 
 
 ## After second consultation with business owner
 
 1. As the business owner, I want a dashboard that displays customer requests for custom opal rings. This feature will help me track popular choices, enabling strategic decisions on stock levels and marketing efforts. It also assists in understanding customer preferences and adjusting offerings accordingly.
+
+2. As a business owner, I need the ability to easily update the list of available opals, ensuring that customers have access to the latest and most diverse selection.
+
+3. As a staff member, I want an intuitive interface that a tech-illiterate person can use easily for updating pricing on different opals and metal options, ensuring accurate and consistent information is presented to customers.
+
+4. 
 
 ## Screenshots (Trello)
 
