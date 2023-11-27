@@ -147,7 +147,7 @@ The target audience for the web application would include:
 
 ## User Story
 
-1. As a customer, I want to browse a diverse selection of opals to choose one that resonates with my girlfriend and receive a quote on pricing. 
+1. As a customer, I want to browse a diverse selection of opals to choose one that resonates with my partner and receive a quote on pricing. 
 
 2. As a customer, I would like to receive a confirmation email with the details of my custom ring configuration after requesting a quote.
 
@@ -182,6 +182,10 @@ The target audience for the web application would include:
 2. As a business owner, I need the ability to easily update the list of available opals, ensuring that customers have access to the latest and most diverse selection.
 
 3. As a staff member, I want an intuitive interface that a tech-illiterate person can use easily for updating pricing on different opals and metal options, ensuring accurate and consistent information is presented to customers.
+
+## Follow-up Market Research
+
+1. As a customer, I desire the flexibility to purchase the opal stone separately or receive a quote for the opal alone, without the need for additional settings or customisation.
 
 ## Screenshots (Trello)
 
