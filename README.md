@@ -175,8 +175,6 @@ The target audience for the web application would include:
 
 4. As a customer, I want to know how long the quote is valid for, and whether I will be contacted by the business regarding my quote. 
 
-5. As a customer, I want to receive the quote in the currency of my choice (USD, Euro, AUD etc.), allowing me to a better informed decision. 
-
 ## After second consultation with business owner and staff
 
 1. As the business owner, I want a dashboard that displays customer requests for custom opal rings. This feature will help me track popular choices, enabling strategic decisions on stock levels and marketing efforts. It also assists in understanding customer preferences and adjusting offerings accordingly.
@@ -192,6 +190,34 @@ The target audience for the web application would include:
 2. As a user, I expect responsive customer support through live chat or email to address any queries regarding opal specifications, pricing, or the ordering process.
 
 3. As a customer, I want comprehensive information about each opal, including where it was sourced from, clarity, size, carat, colour and dimensions, to make an informed decision. 
+
+4. As a customer, I want to receive the quote in the currency of my choice (USD, Euro, AUD etc.), allowing me to a better informed decision. 
+
+## Wireframes
+
+Link to wireframes: https://www.figma.com/file/6r00G1LGA2Smhjsb9JIpPu/tesselate_jewellery_wireframes?type=design&node-id=0%3A1&mode=design&t=xk1Z8a83WoEISc8b-1
+
+## Mobile
+
+- Minimum width of 360px 
+- Use of hamburger menu for mobile view
+- Focus on images and large text for accessibility
+
+### Home page and Gallery Page
+
+![home_gallery_page](./wireframes/home_gallery_page.jpg)
+
+### Browse and Quote Page
+
+![browse_quote_page](./wireframes/browse_quote_page.jpg)
+
+### About us and FAQ Page
+
+![about_us_faq_page](./wireframes/about_us_faq_page.jpg.jpg)
+
+### Contact Page
+
+![contact_page](./wireframes/contact_page.jpg)
 
 ## Project Management Tracker 
 
