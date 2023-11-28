@@ -175,7 +175,7 @@ The target audience for the web application would include:
 
 4. As a customer, I want to know how long the quote is valid for, and whether I will be contacted by the business regarding my quote. 
 
-## After second consultation with business owner
+## After second consultation with business owner and staff
 
 1. As the business owner, I want a dashboard that displays customer requests for custom opal rings. This feature will help me track popular choices, enabling strategic decisions on stock levels and marketing efforts. It also assists in understanding customer preferences and adjusting offerings accordingly.
 
@@ -186,6 +186,10 @@ The target audience for the web application would include:
 ## Follow-up Market Research
 
 1. As a customer, I desire the flexibility to purchase the opal stone separately or receive a quote for the opal alone, without the need for additional settings or customisation.
+
+2. As a user, I expect responsive customer support through live chat or email to address any queries regarding opal specifications, pricing, or the ordering process.
+
+3. As a customer, I want comprehensive information about each opal, including where it was sourced from, clarity, size, carat, colour and dimensions, to make an informed decision. 
 
 ## Screenshots (Trello)
 
