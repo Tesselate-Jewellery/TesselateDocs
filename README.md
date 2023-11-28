@@ -213,7 +213,7 @@ Link to wireframes: https://www.figma.com/file/6r00G1LGA2Smhjsb9JIpPu/tesselate_
 
 ### About us and FAQ Page
 
-![about_us_faq_page](./wireframes/about_us_faq_page.jpg.jpg)
+![about_us_faq_page](./wireframes/about_us_faq_page.jpg)
 
 ### Contact Page
 
