@@ -101,27 +101,27 @@ The target audience for the web application would include:
 
 ## For all diagrams below. Click image to open in new tab AND save image to local machine for higher resolution. 
 
-![Application_Architecture_Diagram](./application_architecture_diagram/application_architecture_diagram.jpg)
+![Application_Architecture_Diagram](./docs/application_architecture_diagram/application_architecture_diagram.jpg)
 
 ## Dataflow Diagram
 
 ## User
 
-![User_Dataflow_Diagram](./dataflow_diagrams/user_dataflow_diagram.jpg)
+![User_Dataflow_Diagram](./docs/dataflow_diagrams/user_dataflow_diagram.jpg)
 
 ## Admin
 
-![Admin_Dataflow_Diagram](./dataflow_diagrams/admin_dataflow_diagram.jpg)
+![Admin_Dataflow_Diagram](./docs/dataflow_diagrams/admin_dataflow_diagram.jpg)
 
 ## Staff
 
-![Staff_Dataflow_Diagram](./dataflow_diagrams/staff_dataflow_diagram.jpg)
+![Staff_Dataflow_Diagram](./docs/dataflow_diagrams/staff_dataflow_diagram.jpg)
 
 ## Initial Research (User Stories)
 
 ## Persona #1
 
-![aisha_patel](./personas/aisha_patel.jpg)
+![aisha_patel](./docs/personas/aisha_patel.jpg)
 
 ## User Story
 
@@ -132,7 +132,7 @@ The target audience for the web application would include:
 
 ## Persona #2
 
-![kwame_nkrumah](./personas/kwame_nkrumah.jpg)
+![kwame_nkrumah](./docs/personas/kwame_nkrumah.jpg)
 
 ## User Story
 
@@ -143,7 +143,7 @@ The target audience for the web application would include:
 
 ## Persona #3
 
-![diego_herrera](./personas/diego_herrera.jpg)
+![diego_herrera](./docs/personas/diego_herrera.jpg)
 
 ## User Story
 
@@ -153,7 +153,7 @@ The target audience for the web application would include:
 
 ## Persona #4
 
-![leila_abbas](./personas/leila_abbas.jpg)
+![leila_abbas](./docs/personas/leila_abbas.jpg)
 
 ## User Story
 
@@ -163,7 +163,7 @@ The target audience for the web application would include:
 
 ## Persona #5
 
-![mei_chen](./personas/mei_chen.jpg)
+![mei_chen](./docs/personas/mei_chen.jpg)
 
 ## User Story
 
@@ -205,19 +205,24 @@ Link to wireframes: https://www.figma.com/file/6r00G1LGA2Smhjsb9JIpPu/tesselate_
 
 ### Home page and Gallery Page
 
-![home_gallery_page](./wireframes/home_gallery_page.jpg)
+![home_gallery_page](./docs/wireframes/mobile/home_gallery_page.jpg)
 
 ### Browse and Quote Page
 
-![browse_quote_page](./wireframes/browse_quote_page.jpg)
+![browse_quote_page](./docs/wireframes/mobile/browse_quote_page.jpg)
 
 ### About us and FAQ Page
 
-![about_us_faq_page](./wireframes/about_us_faq_page.jpg)
+![about_us_faq_page](./docs/wireframes/mobile/about_us_faq_page.jpg)
 
 ### Contact Page
 
-![contact_page](./wireframes/contact_page.jpg)
+![contact_page](./docs/wireframes/mobile/contact_page.jpg)
+
+## Tablet View
+
+- Minimum width of 744px 
+- Focus on images
 
 ## Project Management Tracker 
 
