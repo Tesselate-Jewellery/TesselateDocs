@@ -202,6 +202,7 @@ Link to wireframes: https://www.figma.com/file/6r00G1LGA2Smhjsb9JIpPu/tesselate_
 - Minimum width of 360px 
 - Use of hamburger menu for mobile view
 - Focus on images and large text for accessibility
+- Minimalistic and less clutter
 
 ### Home page and Gallery Page
 
@@ -222,7 +223,37 @@ Link to wireframes: https://www.figma.com/file/6r00G1LGA2Smhjsb9JIpPu/tesselate_
 ## Tablet View
 
 - Minimum width of 744px 
-- Focus on images
+- More images compared to mobile view
+- Very similar to mobile view, but larger font sizes/images
+- Instead of hamburger menu, a navigation bar with links to individual pages will be at the top
+
+## Home Page
+
+![home_page](./docs/wireframes/tablet/home_page_tablet.jpg)
+
+## Gallery Page
+
+![gallery_page](./docs/wireframes/tablet/gallery_page_tablet.jpg)
+
+## Browse Opal Page
+
+![browse_page](./docs/wireframes/tablet/browse_opal_page_tablet.jpg)
+
+## Quote Page
+
+![quote_page](./docs/wireframes/tablet/quote_page_tablet.jpg)
+
+## About Us Page
+
+![about_page](./docs/wireframes/tablet/about_us_page_tablet.jpg)
+
+## FAQ Page
+
+![faq_page](./docs/wireframes/tablet/faq_page_tablet.jpg)
+
+## Contact Page
+
+![contact_page](./docs/wireframes/tablet/contact_page_tablet.jpg)
 
 ## Project Management Tracker 
 
