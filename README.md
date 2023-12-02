@@ -255,6 +255,16 @@ Link to wireframes: https://www.figma.com/file/6r00G1LGA2Smhjsb9JIpPu/tesselate_
 
 ![contact_page](./docs/wireframes/tablet/contact_page_tablet.jpg)
 
+## Desktop View 
+
+- Minimum width of 1440px 
+- Similar to tablet view, however images will be larger and be even more of a focal point 
+- Rearrange components to suit screen size better
+
+## Home and Gallery Page
+
+![home_gallery_page](./docs/wireframes/desktop/home_gallery_page_desktop.jpg)
+
 ## Project Management Tracker 
 
 
