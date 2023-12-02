@@ -253,6 +253,18 @@ Link to wireframes: https://www.figma.com/file/6r00G1LGA2Smhjsb9JIpPu/tesselate_
 
 ![home_gallery_page](./docs/wireframes/desktop/home_gallery_page_desktop.jpg)
 
+## Browse Opal and Quote Page
+
+![browse_quote_page](./docs/wireframes/desktop/browse_opal_quote_page_desktop.jpg)
+
+## About Us and FAQ Page
+
+![about_FAQ_page](./docs/wireframes/desktop/about_us_faq_page_desktop.jpg)
+
+## Contact Page
+
+
+
 ## Project Management Tracker 
 
 
