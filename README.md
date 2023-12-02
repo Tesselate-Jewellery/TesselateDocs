@@ -229,7 +229,7 @@ Link to wireframes: https://www.figma.com/file/6r00G1LGA2Smhjsb9JIpPu/tesselate_
 
 ## Home Page
 
-![home_page](./docs/wireframes/tablet/home_page_tablet.jpg)
+![home_page](./docs/wireframes/tablet/home_gallery_page_tablet.jpg)
 
 ## Gallery Page
 
