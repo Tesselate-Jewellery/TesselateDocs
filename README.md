@@ -263,7 +263,7 @@ Link to wireframes: https://www.figma.com/file/6r00G1LGA2Smhjsb9JIpPu/tesselate_
 
 ## Contact Page
 
-
+![contact_page](./docs/wireframes/desktop/contact_page_desktop.jpg)
 
 ## Project Management Tracker 
 
