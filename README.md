@@ -227,29 +227,17 @@ Link to wireframes: https://www.figma.com/file/6r00G1LGA2Smhjsb9JIpPu/tesselate_
 - Very similar to mobile view, but larger font sizes/images
 - Instead of hamburger menu, a navigation bar with links to individual pages will be at the top
 
-## Home Page
+## Home Page and Gallery Page
 
-![home_page](./docs/wireframes/tablet/home_gallery_page_tablet.jpg)
+![home_gallery_page](./docs/wireframes/tablet/home_gallery_page_tablet.jpg)
 
-## Gallery Page
+## Browse Opal and Quote Page
 
-![gallery_page](./docs/wireframes/tablet/gallery_page_tablet.jpg)
+![browse_quote_page](./docs/wireframes/tablet/browse_opal_quote_page_tablet.jpg)
 
-## Browse Opal Page
+## About Us and FAQ Page
 
-![browse_page](./docs/wireframes/tablet/browse_opal_page_tablet.jpg)
-
-## Quote Page
-
-![quote_page](./docs/wireframes/tablet/quote_page_tablet.jpg)
-
-## About Us Page
-
-![about_page](./docs/wireframes/tablet/about_us_page_tablet.jpg)
-
-## FAQ Page
-
-![faq_page](./docs/wireframes/tablet/faq_page_tablet.jpg)
+![about_FAQ_page](./docs/wireframes/tablet/about_us_faq_page_tablet.jpg)
 
 ## Contact Page
 
