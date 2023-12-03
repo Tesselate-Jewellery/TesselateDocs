@@ -199,6 +199,48 @@ The target audience for the web application would include:
 
 Link to wireframes: https://www.figma.com/file/6r00G1LGA2Smhjsb9JIpPu/tesselate_jewellery_wireframes?type=design&node-id=0%3A1&mode=design&t=xk1Z8a83WoEISc8b-1
 
+Wireframes for all devices will be similar in layout as to keep a consistent and professional look. Images, text and components will slightly differ to best utilise the space and width of the device. 
+
+### Home Page
+
+The home page will contain lots of images and showcase the bespoke jewellery the business has made. This is the first impression a customer will see and they will decide whether they are interested or not within seconds. 
+
+Thus it is highly important the images showcase the best works of the business and also represent the type of jewellery available. 
+
+The home page will also contain a short description about the owners of the business for transparency and will contain clickable buttons to direct to the about us page. 
+
+Home page will be similar across all devices.
+
+### Gallery Page
+
+The gallery page will contain images of the various opals and types for the customer to view.
+
+The gallery page will be similar across all devices.
+
+### Browse Page
+
+This will be the page when a customer clicks to "see more" on a certain opal. This will bring them to a page where they can customise the specifications of the ring they wish to be made (ring size, base metal etc.)
+
+Mobile and Tablet will be similar, however, on the desktop the greater width allows for better spacing and more creativity. For example, maybe the customisation options will be on the right of the image instead of underneath. 
+
+### Quote Page
+
+The quote page will be similar across all devices, and it will just contain a simple message containing all the information related to the quote and stating that the business will contact the user (must be logged in to retrieve a quote) within a certain number of business days.
+
+### About Us Page
+
+Contain information about the makers and owners of the business. This will provide transparency and allow the customer to see who is making their jewellery. 
+
+Simple page with images and text, thus will be similar across all devices.
+
+### FAQ Page
+
+A simple page with frequently asked questions and the answers from the business. Format will be similar across all devices. 
+
+### Contact Page
+
+This page will not contain any forms, input fields or messages. It will have a short paragraph saying to send a message to the business email. 
+
 ## Mobile
 
 - Minimum width of 360px 
