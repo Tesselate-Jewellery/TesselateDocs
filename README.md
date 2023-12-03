@@ -2,6 +2,8 @@
 
 ## Tesselate Bespoke Jewellery - MERN stack app 
 
+Documentation Link: https://github.com/Tesselate-Jewellery/TesselateDocs
+
 ## Purpose 
 
 This web application aims to give our client, a well-established jeweller of over 30 years, a strong online presence in line with the changing trends in the jewellery industry. Addressing the absence of a digital footprint for our client's business, the app is designed to create a comprehensive platform showcasing the timeless craftsmanship and distinctive offerings of our client's custom jewellery.
@@ -267,11 +269,30 @@ Link to wireframes: https://www.figma.com/file/6r00G1LGA2Smhjsb9JIpPu/tesselate_
 
 ## Project Management Tracker 
 
-
-
-## Screenshots (Trello)
-
 Link to trello board: 
 
 https://trello.com/b/40QQzH27/tesselate-bespoke-jewellery
 
+Planning methodology was tracked and monitored with Trello. Tasks that needed to be completed were added to the Trello board and compiled into cards. Each card was a specific requirement (User stories, application architecture diagram etc.) that needed to be completed to meet the brief. Each card also had coloured labels to signify difficulty, due dates, checklists and descriptions. 
+
+It was up to the developer to mark the completed tasks to monitor progress. The developer is responsible for moving the cards to the correct column (backlog, design, to-do, doing, code-review, testing, done) for transparency and accountability. 
+
+## Screenshots (Trello)
+
+### Screenshots of page 
+
+![trello_6](./docs/trello_screenshots/trello_6.jpg)
+
+![trello_1](./docs/trello_screenshots/trello_1.jpg)
+
+![trello_2](./docs/trello_screenshots/trello_2.jpg)
+
+![trello_3](./docs/trello_screenshots/trello_3.jpg)
+
+### Screenshots of cards 
+
+![trello_4](./docs/trello_screenshots/trello_4.jpg)
+
+![trello_5](./docs/trello_screenshots/trello_5.jpg)
+
+![trello_7](./docs/trello_screenshots/trello_7.jpg)
