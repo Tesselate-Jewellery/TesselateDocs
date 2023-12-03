@@ -296,3 +296,5 @@ It was up to the developer to mark the completed tasks to monitor progress. The 
 ![trello_5](./docs/trello_screenshots/trello_5.jpg)
 
 ![trello_7](./docs/trello_screenshots/trello_7.jpg)
+
+![trello_8](./docs/trello_screenshots/trello_8.jpg)
