@@ -239,7 +239,7 @@ A simple page with frequently asked questions and the answers from the business.
 
 ### Contact Page
 
-This page will not contain any forms, input fields or messages. It will have a short paragraph saying to send a message to the business email. 
+This page will not contain any forms, input fields or messages. It will contain a short paragraph saying to send a message to the business email. 
 
 ## Mobile
 
