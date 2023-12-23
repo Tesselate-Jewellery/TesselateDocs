@@ -431,6 +431,14 @@ Run "npm test" in terminal to see jest tests
 
 ![Quote Routes and Functions Manual Testing](./docs/testing_files/opal_routes_functions.png)
 
+## API endpoints for SERVER
+
+Below are the following endpoints on the server side. 
+
+Some routes may require certain authorisation depending on role (i.e. "admin", "staff", "user", jwt)
+
+![API endpoints](./docs/misc/API%20endpoints.png)
+
 # Client
 
 Please include the .env variables that will be uploaded for submission. Then run "npm start" 
@@ -470,3 +478,21 @@ Throughout Part B, trello was continued to be used. Screenshots are available be
 ![trello_client_2](./docs/trello_screenshots/frontend_2.png)
 
 ![trello_client_3](./docs/trello_screenshots/frontend_3.png)
+
+## Client Dashboard
+
+Once logged in on deployed app, the dashboard will show different functions depending on the level of authorisation.
+
+Also note that when signed in as a staff member, they do not have the authorisation to delete opals. Only an admin does. 
+
+### Admin
+
+![admin_dashboard](./docs/misc/admin_dashboard.png)
+
+### Staff
+
+![staff_dashboard](./docs/misc/staff_dashboard.png)
+
+### User
+
+![user_dashboard](./docs/misc/user_dashboard.png)
