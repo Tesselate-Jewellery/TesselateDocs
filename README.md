@@ -1,6 +1,4 @@
-# Jeevan Ng T3A1
-
-## Tesselate Bespoke Jewellery - MERN stack app 
+# Tesselate Bespoke Jewellery - MERN stack app 
 
 Documentation Link: https://github.com/Tesselate-Jewellery/TesselateDocs
 
@@ -13,7 +11,6 @@ Deployed App: https://tesselate-bespoke-jewellery.netlify.app/
 Deployed Database: https://express-tesselate-app-95b2de4e1f17.herokuapp.com/
 
 ## Important Credentials for Login 
-
 
 ## Admin
 1. 
@@ -58,7 +55,9 @@ email: user2@email.com
 
 password: 1ab2c3d4
 
-Or feel free to sign up and make your own account as a User.
+**Or feel free to sign up and make your own account as a User.**
+
+# Jeevan Ng T3A1
 
 ## Purpose 
 
