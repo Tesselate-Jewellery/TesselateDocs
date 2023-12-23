@@ -459,6 +459,28 @@ Manual tests were run for user stories.
 
 ![user Story Testing](./docs/testing_files/user_story_testing.png)
 
+## API endpoints for CLIENT
+
+Not all endpoints that were designed in the backend could be implemented on the front end. Due to limitations in resources and time, only the most important routes were designed and implemented on the app. More functionality to come later.
+
+## Client Dashboard
+
+Once logged in on deployed app, the dashboard will show different functions depending on the level of authorisation.
+
+Also note that when signed in as a staff member, they do not have the authorisation to delete opals. Only an admin does. 
+
+### Admin
+
+![admin_dashboard](./docs/misc/admin_dashboard.png)
+
+### Staff
+
+![staff_dashboard](./docs/misc/staff_dashboard.png)
+
+### User
+
+![user_dashboard](./docs/misc/user_dashboard.png)
+
 # Trello    
 
 Throughout Part B, trello was continued to be used. Screenshots are available below;
@@ -478,21 +500,3 @@ Throughout Part B, trello was continued to be used. Screenshots are available be
 ![trello_client_2](./docs/trello_screenshots/frontend_2.png)
 
 ![trello_client_3](./docs/trello_screenshots/frontend_3.png)
-
-## Client Dashboard
-
-Once logged in on deployed app, the dashboard will show different functions depending on the level of authorisation.
-
-Also note that when signed in as a staff member, they do not have the authorisation to delete opals. Only an admin does. 
-
-### Admin
-
-![admin_dashboard](./docs/misc/admin_dashboard.png)
-
-### Staff
-
-![staff_dashboard](./docs/misc/staff_dashboard.png)
-
-### User
-
-![user_dashboard](./docs/misc/user_dashboard.png)
