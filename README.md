@@ -421,9 +421,32 @@ Run "npm test" in terminal to see jest tests
 
 ### User Routes/Functions
 
-[User Routes and Functions Manual Testing](./docs/testing_files/user_routes_functions_testing%20(3).pdf)
+![User Routes and Functions Manual Testing](./docs/testing_files/user_routes_functions.png)
 
+### Opals Routes/Functions
+
+![Opal Routes and Functions Manual Testing](./docs/testing_files/opal_routes_functions.png)
+
+### Quote Routes/Functions
+
+![Quote Routes and Functions Manual Testing](./docs/testing_files/opal_routes_functions.png)
+
+# Client
+
+Please include the .env variables that will be uploaded for submission. Then run "npm start" 
 
 ## Client Branches
 
 ![client_branches](./docs/github_screenshots/frontend_branches.png)
+
+# Testing 
+
+Testing was conducted via Jest and manual testing. 
+
+Run "npm test" in terminal to see jest tests
+
+## Manual Testing
+
+Manual tests were run for user stories. 
+
+![user Story Testing](./docs/testing_files/user_story_testing.png)
