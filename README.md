@@ -419,6 +419,9 @@ Run "npm test" in terminal to see jest tests
 
 ## Manual Testing
 
+### User Routes/Functions
+
+[client_branches](./docs/testing_files/user_routes_functions_testing%20(3).pdf)
 
 
 ## Client Branches
