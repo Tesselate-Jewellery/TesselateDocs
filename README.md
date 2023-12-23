@@ -450,3 +450,23 @@ Run "npm test" in terminal to see jest tests
 Manual tests were run for user stories. 
 
 ![user Story Testing](./docs/testing_files/user_story_testing.png)
+
+# Trello    
+
+Throughout Part B, trello was continued to be used. Screenshots are available below;
+
+## Server
+
+![trello_server_1](./docs/trello_screenshots/backend_1.png)
+
+![trello_server_2](./docs/trello_screenshots/backend_2.png)
+
+![trello_server_3](./docs/trello_screenshots/backend_3.png)
+
+## Client
+
+![trello_client_1](./docs/trello_screenshots/frontend_1.png)
+
+![trello_client_2](./docs/trello_screenshots/frontend_2.png)
+
+![trello_client_3](./docs/trello_screenshots/frontend_3.png)
