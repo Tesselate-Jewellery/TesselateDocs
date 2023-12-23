@@ -4,6 +4,62 @@
 
 Documentation Link: https://github.com/Tesselate-Jewellery/TesselateDocs
 
+Client Repo: https://github.com/Tesselate-Jewellery/client
+
+Server Repo: https://github.com/Tesselate-Jewellery/server
+
+Deployed App: https://tesselate-bespoke-jewellery.netlify.app/
+
+Deployed Database: https://express-tesselate-app-95b2de4e1f17.herokuapp.com/
+
+## Important Credentials for Login 
+
+
+## Admin
+1. 
+username: admin1
+
+email: admin1@email.com
+
+password: 123456
+
+2. 
+
+username: admin2
+
+email: admin2@email.com
+
+password: 123456
+
+## Staff
+
+1.
+
+username: staff1
+
+email: staff1@email.com
+
+password: 123456
+
+## User
+1.
+
+username: user1
+
+email: user1@email.com
+
+password: abcdef
+
+2.
+
+username: user2
+
+email: user2@email.com
+
+password: 1ab2c3d4
+
+Or feel free to sign up and make your own account as a User.
+
 ## Purpose 
 
 This web application aims to give our client, a well-established jeweller of over 30 years, a strong online presence in line with the changing trends in the jewellery industry. Addressing the absence of a digital footprint for our client's business, the app is designed to create a comprehensive platform showcasing the timeless craftsmanship and distinctive offerings of our client's custom jewellery.
@@ -340,3 +396,31 @@ It was up to the developer to mark the completed tasks to monitor progress. The 
 ![trello_7](./docs/trello_screenshots/trello_7.jpg)
 
 ![trello_8](./docs/trello_screenshots/trello_8.jpg)
+
+# Jeevan Ng T3A2
+
+The second part of this documentation is relating to the source code of the client/server, and involves deployment. 
+
+## Source control 
+
+This whole project was managed by GitHub, most importantly involving the use of branches. As seen below;
+
+# Server 
+
+## Branches
+
+![server_branches](./docs/github_screenshots/server_branches.png)
+
+# Testing 
+
+Testing was conducted via Jest, Supertest and manual testing. 
+
+Run "npm test" in terminal to see jest tests
+
+## Manual Testing
+
+
+
+## Client Branches
+
+![client_branches](./docs/github_screenshots/frontend_branches.png)
